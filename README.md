@@ -20,7 +20,6 @@
 - **[paperforge](https://github.com/kevin00156/paperforge)** — 拋棄 Word / PowerPoint，全面用程式碼寫論文的工作流。
 - **[coffee_bean_detection](https://github.com/kevin00156/coffee_bean_detection)** — 碩士論文：水洗咖啡豆細粒度瑕疵檢測（PyTorch；HCCH 階層式分類頭，確保輸出邏輯一致）。
 - **[coffee_bean_labeling](https://github.com/kevin00156/coffee_bean_labeling)** — 咖啡豆標註工具（PyQt5）。
-- **[kevins_torch](https://github.com/kevin00156/kevins_torch)** — 自用的 PyTorch 訓練工具套件，已發佈於 PyPI。
 - **[DRV-Modbus](https://github.com/kevin00156/DRV-Modbus)** — 台達 DRV 機器人 Modbus 控制庫：重寫並封裝更人性化的 class 介面（位址整理基於學長 [@liaochikon](https://github.com/liaochikon) 的成果，故保留 fork）。
 
 ---
