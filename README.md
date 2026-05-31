@@ -7,7 +7,7 @@
 
 ---
 
-### 🔧 技術領域
+### 技術領域
 
 - **OT 控制** — 多機種 PLC（三菱 FX/Q · OMRON NX · Keyence · CODESYS）· ST 語言 · PLCopen 運動控制 · 非線性狀態機 · 多軸同步（最高 44 軸）· EtherCAT
 - **IT 整合** — 工業 Linux / RT 核心 · Modbus TCP/RTU · OPC UA · RESTful API · 全端與資料庫對接
@@ -15,7 +15,7 @@
 
 ---
 
-### 📌 精選專案
+### 精選專案
 
 - **[paperforge](https://github.com/kevin00156/paperforge)** — 拋棄 Word / PowerPoint，全面用程式碼寫論文的工作流。
 - **[coffee_bean_detection](https://github.com/kevin00156/coffee_bean_detection)** — 碩士論文：水洗咖啡豆細粒度瑕疵檢測（PyTorch；HCCH 階層式分類頭，確保輸出邏輯一致）。
@@ -24,4 +24,4 @@
 
 ---
 
-📫 **qazsskevin@gmail.com** ｜ 日常使用 Kubuntu，自架 Proxmox + OpenWrt + Home Assistant homelab。
+**Email** ｜ qazsskevin@gmail.com ｜ 日常使用 Kubuntu，自架 Proxmox + OpenWrt + Home Assistant homelab。
